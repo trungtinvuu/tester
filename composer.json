@@ -1,0 +1,16 @@
+{
+    "name": "tester/test",
+    "description": "test",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tester\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "trungtin"
+        }
+    ],
+    "require": {}
+}
